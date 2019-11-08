@@ -1,0 +1,5 @@
+.hg/*
+*.iml
+target/*
+.idea/*
+.hgignore
